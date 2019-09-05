@@ -3,6 +3,6 @@ $(document).ready(function(){
     $("p").toggle();
   });
   $("#hide").click(function(){
-		$("#bye").hide();
+		$(".bye").hide();
 	}); 
 });
