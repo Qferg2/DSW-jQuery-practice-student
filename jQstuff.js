@@ -4,5 +4,6 @@ $(document).ready(function(){
   });
   $("#hide").click(function(){
 		$(".bye").hide();
-	}); 
+		$("bear.jpg").show();
+	});
 });
